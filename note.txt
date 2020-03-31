@@ -1,0 +1,9 @@
+tsc to compile typescript to javascript
+
+advantage typescript:
+- become static type
+- next-gen javascript feature(compiled down for older browsers)
+- super feature (like interface, generics)
+- meta-programming feature like decorator
+- rich configuration options
+- modern tooling that helps even in non-typescript projects
