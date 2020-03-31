@@ -1,0 +1,1 @@
+tsc to compile typescript to javascript
