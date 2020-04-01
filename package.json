@@ -1,0 +1,23 @@
+{
+  "name": "learn-typescript",
+  "version": "1.0.0",
+  "description": "follow tutorial on udemy(maximilian), understanding typescript - 2020 Edition",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kusranar/learn-typescript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kusranar/learn-typescript/issues"
+  },
+  "homepage": "https://github.com/kusranar/learn-typescript#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
