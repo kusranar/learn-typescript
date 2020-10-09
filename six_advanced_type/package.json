@@ -1,0 +1,12 @@
+{
+  "name": "six_advanced_type",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  },
+  "scripts": {
+    "start": "lite-server"
+  }
+}

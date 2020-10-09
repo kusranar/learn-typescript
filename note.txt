@@ -7,3 +7,7 @@ advantage typescript:
 - meta-programming feature like decorator
 - rich configuration options
 - modern tooling that helps even in non-typescript projects
+
+
+tsc app.ts --watch / or / tsc app.ts -w     ==> for watch mode, and no use syntax more and more
+tsc init    ==> tsc        ==> like --watch but compile all file and you can combine with --watch or watch
